@@ -1,0 +1,36 @@
+.shadow{
+    box-shadow:0px 20px 20px grey;
+}
+.Order{
+    
+    background-color: rgb(236, 86, 98);
+}
+.card{
+    width: auto !important;
+    height: auto !important;
+}
+
+.card-text{
+    font-weight: bold;
+}
+.card-img-top{
+    height: 165px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.show-in-line{
+    display: inline-block;
+}
+h1{
+    color:blueviolet;
+    
+    font-family: Arial, Helvetica, sans-serif ;
+}
+table{
+    color: rgb(225, 235, 236);
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif ;
+    
+}
